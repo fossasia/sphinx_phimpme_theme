@@ -1,8 +1,8 @@
-sphinx_fossasia_theme
+Sphinx Phimpme Theme
 =====================
 
-.. image:: https://travis-ci.org/fossasia/sphinx_fossasia_theme.svg?branch=master
-    :target: https://travis-ci.org/fossasia/sphinx_fossasia_theme
+.. image:: https://travis-ci.org/fossasia/sphinx_phimpme_theme.svg?branch=master
+    :target: https://travis-ci.org/fossasia/sphinx_phimpme_theme
 
 Official bootstrap based Sphinx theme for FOSSASIA
 
@@ -13,13 +13,13 @@ Download the package or add it to your `requirements.txt`
 
 ::
 
-    pip install sphinx_fossasia_theme
+    pip install sphinx_phimpme_theme
 
 In your conf.py file:
 
 ::
 
-    html_theme = "sphinx_fossasia_theme"
+    html_theme = "sphinx_phimpme_theme"
 
 Configuration
 -------------

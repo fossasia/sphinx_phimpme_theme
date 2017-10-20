@@ -1,4 +1,4 @@
 include LICENSE
 include README.rst
-recursive-include sphinx_fossasia_theme *.conf *.html *.png *.gif *.ico *.js *.css *.jpg *.jpeg *.eot *.svg *.ttf *.woff *.py *.css_t
+recursive-include sphinx_phimpme_theme *.conf *.html *.png *.gif *.ico *.js *.css *.jpg *.jpeg *.eot *.svg *.ttf *.woff *.py *.css_t
 
